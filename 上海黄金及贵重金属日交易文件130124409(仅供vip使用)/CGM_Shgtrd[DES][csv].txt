@@ -1,0 +1,3 @@
+Goldtype [黄金类型] - Au9999,Au9995,Au(T+D),Au(T+5),Au50g,Au100g,Pt9995,Au(T+N1),Au(T+N2)
+Trddt [交易日期] - YYYY-MM-DD
+Clsprcd [收盘价] - 
